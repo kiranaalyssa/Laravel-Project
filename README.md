@@ -2,6 +2,20 @@
 # Laravel-Project
 Project ini dibuat untuk syarat kualifikasi posisi Frontend/Backend Developer.
 
+## API POSTMAN
+```
+https://www.postman.com/kirana-alyssa/workspace/laravel-api/collection/39615568-de1eb792-1f59-4134-85d2-705c48340b23?action=share&creator=39615568
+```
+
+## Run Terminal API
+```
+http://127.0.0.1:8000/api/pasien
+```
+## Run Terminal Frontend 
+```
+http://127.0.0.1:8001/pasien
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
